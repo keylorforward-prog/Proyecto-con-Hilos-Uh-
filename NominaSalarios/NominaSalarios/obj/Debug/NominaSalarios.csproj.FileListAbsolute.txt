@@ -1,0 +1,11 @@
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\bin\Debug\NominaSalarios.exe.config
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\bin\Debug\NominaSalarios.exe
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\bin\Debug\NominaSalarios.pdb
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.csproj.AssemblyReference.cache
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.Form1.resources
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.Form2.resources
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.Properties.Resources.resources
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.csproj.GenerateResource.cache
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.csproj.CoreCompileInputs.cache
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.exe
+C:\Users\estef\OneDrive\Documentos\Sistemas Operativos\NominaSalarios\NominaSalarios\obj\Debug\NominaSalarios.pdb
